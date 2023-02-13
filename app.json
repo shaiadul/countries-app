@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "countryApp",
-    "slug": "countryApp",
+    "slug": "country-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d7caac77-a5b8-4971-8a95-2897e4f719ac"
+      }
+    },
+    "owner": "saidul404"
   }
 }
